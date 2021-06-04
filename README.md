@@ -7,10 +7,14 @@
 * Practice using for..in  and for..of syntax 
 * Work with Node.js using module.exports and require
 
+
 ### Technologies used
-	Visual Studio Code
+`Visual Studio Code`
+
+
 ### What I learned
-    How to use modern Javascript syntax including arrow functions, for..in, and for...of.
+How to use modern Javascript syntax including arrow functions, for..in, and for...of.
+
 
 Lab 3 JavaScript Code
 
