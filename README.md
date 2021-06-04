@@ -1,10 +1,16 @@
 ## CIT 281 Lab 3
 
-### Purpose of the Project
+### Purpose of Lab 3
+* Practice refactoring JavaScript code to use more modern syntax
+* Practice destructuring an object
+* Practice converting normal functions into arrow function expressions
+* Practice using for..in  and for..of syntax 
+* Work with Node.js using module.exports and require
 
 ### Technologies used
-
+	Visual Studio Code
 ### What I learned
+    How to use modern Javascript syntax including arrow functions, for..in, and for...of.
 
 Lab 3 JavaScript Code
 
